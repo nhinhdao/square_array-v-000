@@ -7,12 +7,12 @@ end
 
 # using map/collect
 
-def square_array(array)
+def square_arrayy(array)
   # your code here
   array.map {|num| num*num }
 end
 
-def square_array(array)
+def square_arrayyy(array)
   # your code here
   array.collect {|num| num*num }
 end
