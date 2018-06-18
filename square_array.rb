@@ -16,3 +16,8 @@ def square_arrayyy(array)
   # your code here
   array.collect {|num| num*num }
 end
+
+
+square_array([1,2,4])
+square_arrayy([1,2,4])
+square_arrayy([1,2,4])
