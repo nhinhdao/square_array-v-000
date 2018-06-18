@@ -18,6 +18,6 @@ def square_arrayyy(array)
 end
 
 
-puts square_array([1,2,4])
-puts square_arrayy([1,2,4])
-puts square_arrayy([1,2,4])
+# puts square_array([1,2,4])
+# puts square_arrayy([1,2,4])
+# puts square_arrayy([1,2,4])
