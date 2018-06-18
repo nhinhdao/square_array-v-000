@@ -5,7 +5,8 @@ def square_array(array)
   newarray
 end
 
-using map/collect
+# using map/collect
+
 def square_array(array)
   # your code here
   array.map {|num| num*num }
